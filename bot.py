@@ -1,7 +1,7 @@
 #(©)Codexbotz
 import pyrogram.utils
 
-pyrogram.utils.MIN_CHANNEL_ID = -1002489079417
+pyrogram.utils.MIN_CHANNEL_ID = -1002484977793
 from aiohttp import web
 from plugins import web_server
 
